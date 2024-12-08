@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\SecondModul\\2.2_dars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|c:\\projects\\secondmodul\\2.2_dars\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|c:\\projects\\secondmodul\\2.2_dars\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|c:\\projects\\secondmodul\\2.2_dars\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|solutionrelative:services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|c:\\projects\\secondmodul\\2.2_dars\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|solutionrelative:services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|c:\\projects\\secondmodul\\2.2_dars\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|c:\\projects\\secondmodul\\2.2_dars\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|c:\\projects\\secondmodul\\2.2_dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|c:\\projects\\secondmodul\\2.2_dars\\2.2_dars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEED4773-38BD-473C-B310-8E93DA231955}|2.2_dars.csproj|solutionrelative:2.2_dars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Projects\\SecondModul\\2.2_dars\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "Services\\TestService.cs",
+              "ToolTip": "C:\\Projects\\SecondModul\\2.2_dars\\Services\\TestService.cs*",
+              "RelativeToolTip": "Services\\TestService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:03:43.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Projects\\SecondModul\\2.2_dars\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Services\\TeacherService.cs",
+              "ToolTip": "C:\\Projects\\SecondModul\\2.2_dars\\Services\\TeacherService.cs",
+              "RelativeToolTip": "Services\\TeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:03:17.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Projects\\SecondModul\\2.2_dars\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Projects\\SecondModul\\2.2_dars\\Services\\StudentService.cs*",
+              "RelativeToolTip": "Services\\StudentService.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:02:51.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Projects\\SecondModul\\2.2_dars\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Models\\Test.cs",
+              "ToolTip": "C:\\Projects\\SecondModul\\2.2_dars\\Models\\Test.cs*",
+              "RelativeToolTip": "Models\\Test.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:02:17.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Projects\\SecondModul\\2.2_dars\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Projects\\SecondModul\\2.2_dars\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:00:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\SecondModul\\2.2_dars\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Projects\\SecondModul\\2.2_dars\\Models\\Student.cs*",
+              "RelativeToolTip": "Models\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:59:47.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2.2_dars",
+              "DocumentMoniker": "C:\\Projects\\SecondModul\\2.2_dars\\2.2_dars.csproj",
+              "RelativeDocumentMoniker": "2.2_dars.csproj",
+              "ToolTip": "C:\\Projects\\SecondModul\\2.2_dars\\2.2_dars.csproj*",
+              "RelativeToolTip": "2.2_dars.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T15:58:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\SecondModul\\2.2_dars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\SecondModul\\2.2_dars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:57:15.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
