@@ -12,3 +12,4 @@ C:\Projects\SecondModul\2.2_dars\obj\Debug\net8.0\refint\2.2_dars.dll
 C:\Projects\SecondModul\2.2_dars\obj\Debug\net8.0\2.2_dars.pdb
 C:\Projects\SecondModul\2.2_dars\obj\Debug\net8.0\2.2_dars.genruntimeconfig.cache
 C:\Projects\SecondModul\2.2_dars\obj\Debug\net8.0\ref\2.2_dars.dll
+C:\Projects\SecondModul\2.2_dars\obj\Debug\net8.0\2.2_dars.sourcelink.json

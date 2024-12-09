@@ -65,6 +65,25 @@ public class TestService
     {
         return GetTests();
     }
+    public List<Test> RandomTests(int count)
+    {
+        if(count>=_tests.Count)
+        {
+            return _tests;
+        }
+        var randomTests=new List<Test> ();
+        var rand=new Random();
+        for(var i=0;i<count;)
+        {
+            var option=rand.Next(0, _tests.Count);
+            if (randomTests.Contains(_tests[option]) is false)
+            {
+                randomTests.Add(_tests[option]);
+                i++;
+            }
+        }
+        return randomTests;
+    }
     public void SaveData()
     {
         var testJson = JsonSerializer.Serialize(_tests);
