@@ -11,7 +11,7 @@ public class TeacherService
     public TeacherService()
     {
         teacherFilePath = "../../../Data/Teacher.json";
-        if (File.Exists(teacherFilePath))
+        if (File.Exists(teacherFilePath)is false)
         {
             File.WriteAllText(teacherFilePath, "[]");
         }
@@ -75,7 +75,4 @@ public class TeacherService
         var teachers = JsonSerializer.Deserialize<List<Teacher>>(teacherJson);
         return teachers;
     }
-    
-  
-
 }

@@ -15,7 +15,7 @@ public class TestService
     public TestService ()
     {
         testFilePath = "../../../Data/Test.json";
-        if(File.Exists (testFilePath))
+        if(File.Exists (testFilePath)is false)
         {
             File.WriteAllText(testFilePath, "[]");
         }
@@ -65,7 +65,7 @@ public class TestService
     {
         return GetTests();
     }
-    public List<Test> RandomTests(int count)
+    public List<Test> GetRandomTests(int count)
     {
         if(count>=_tests.Count)
         {

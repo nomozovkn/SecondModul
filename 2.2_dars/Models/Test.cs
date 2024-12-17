@@ -14,5 +14,5 @@ public class Test
     public string BVariant { get; set; }
     public string CVariant { get; set; }
     public string Answer { get; set; }
-
+    public bool Question { get; internal set; }
 }

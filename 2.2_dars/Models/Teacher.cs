@@ -12,7 +12,7 @@ public class Teacher
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public int Age { get; set; }
-    public string Dagre { get; set; }
+    public string Subject { get; set; }
     public string Gender { get; set; }
     public List<int> Results { get; set; }
 }
